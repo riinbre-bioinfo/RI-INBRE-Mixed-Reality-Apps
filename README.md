@@ -12,7 +12,7 @@ Applications developed by the MIC-STA are listed below.  We try to offer the mos
 
 ### Aspirin VR
 
-Sponsor: Dr. Christopher Hemme, University of Rhode Island, College of Pharmacy
+Sponsor: Dr. Christopher Hemme, University of Rhode Island, College of Pharmacy<br>
 Funding: RI-INBRE
 Description
 
