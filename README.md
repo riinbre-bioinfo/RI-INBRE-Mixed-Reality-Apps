@@ -13,43 +13,44 @@ Applications developed by the MIC-STA are listed below.  We try to offer the mos
 ### Aspirin VR
 
 Sponsor: Dr. Christopher Hemme, University of Rhode Island, College of Pharmacy<br>
-Funding: RI-INBRE
-Description
+Funding: RI-INBRE<br>
+Description:<br>
 
 ### Methotrexate VR
 
-Sponsor: Dr. Bongsup Cho, University of Rhode Island, College of Pharmacy
-Funding: RI-INBRE
-Description
+Sponsor: Dr. Bongsup Cho, University of Rhode Island, College of Pharmacy<br>
+Funding: RI-INBRE<br>
+Description: <br>
 
 ### Natural Products VR
 
-Sponsor: Dr. Matthew Bertin, University of Rhode Island, College of Pharmacy
-Funding: RI-INBRE
-Description
+Sponsor: Dr. Matthew Bertin, University of Rhode Island, College of Pharmacy<br>
+Funding: RI-INBRE<br>
+Description: <br>
 
 ### Nanoparticle and Liposome VR
 
-Sponsor: Dr. Jie Shen, University of Rhode Island, College of Pharmacy/College of Engineering
-Funding: RI-INBRE (EVEREST)
-Description
+Sponsor: Dr. Jie Shen, University of Rhode Island, College of Pharmacy/College of Engineering<br>
+Funding: RI-INBRE (EVEREST)<br>
+Description: <br>
 
 ### Cell Culture VR
 
-Sponsor: Dr. Jyothi Menon, University of Rhode Island, College of Pharmacy/College of Engineering
-Funding: RI-INBRE (EVEREST)
+Sponsor: Dr. Jyothi Menon, University of Rhode Island, College of Pharmacy/College of Engineering<br>
+Funding: RI-INBRE (EVEREST)<br>
+Description: <br>
 
 ### Medicinal Garden AR
 
-Sponsor: Elizabeth Leibovitz, University of Rhode Island, College of Pharmacy
-Funding: RI-INBRE
-Description
+Sponsor: Elizabeth Leibovitz, University of Rhode Island, College of Pharmacy<br>
+Funding: RI-INBRE<br>
+Description: <br>
 
 ### Nephron VR
 
-Sponsor: Dr. Roberta King, University of Rhode Island, College of Pharmacy
-Funding:
-Description
+Sponsor: Dr. Roberta King, University of Rhode Island, College of Pharmacy<br>
+Funding: <br>
+Description: <br>
 
 ## Acknowledgements
 
