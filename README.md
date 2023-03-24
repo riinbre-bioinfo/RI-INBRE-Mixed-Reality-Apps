@@ -1,4 +1,4 @@
-# RI-INBRE-Mixed-Reality-Apps
+# RI-INBRE Mixed Reality Apps
 VR/AR/MR applications developed by RI-INBRE and URI ITS STA
 Last Updated March 23, 2023
 
@@ -11,11 +11,45 @@ Welcome to the repository for virtual, augmented and mixed reality (VR/AR/MR) ap
 Applications developed by the MIC-STA are listed below.  We try to offer the most recent functional versions of the apps, but some older developmental versions may not always work it recent Unity environments.
 
 ### Aspirin VR
+
+Sponsor: Dr. Christopher Hemme, University of Rhode Island, College of Pharmacy
+Funding: RI-INBRE
+Description
+
 ### Methotrexate VR
+
+Sponsor: Dr. Bongsup Cho, University of Rhode Island, College of Pharmacy
+Funding: RI-INBRE
+Description
+
 ### Natural Products VR
+
+Sponsor: Dr. Matthew Bertin, University of Rhode Island, College of Pharmacy
+Funding: RI-INBRE
+Description
+
 ### Nanoparticle and Liposome VR
+
+Sponsor: Dr. Jie Shen, University of Rhode Island, College of Pharmacy/College of Engineering
+Funding: RI-INBRE (EVEREST)
+Description
+
+### Cell Culture VR
+
+Sponsor: Dr. Jyothi Menon, University of Rhode Island, College of Pharmacy/College of Engineering
+Funding: RI-INBRE (EVEREST)
+
 ### Medicinal Garden AR
+
+Sponsor: Elizabeth Leibovitz, University of Rhode Island, College of Pharmacy
+Funding: RI-INBRE
+Description
+
 ### Nephron VR
+
+Sponsor: Dr. Roberta King, University of Rhode Island, College of Pharmacy
+Funding:
+Description
 
 ## Acknowledgements
 
