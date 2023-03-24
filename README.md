@@ -10,6 +10,13 @@ Welcome to the repository for virtual, augmented and mixed reality (VR/AR/MR) ap
 
 Applications developed by the MIC-STA are listed below.  We try to offer the most recent functional versions of the apps, but some older developmental versions may not always work it recent Unity environments.
 
+### Aspirin VR
+### Methotrexate VR
+### Natural Products VR
+### Nanoparticle and Liposome VR
+### Medicinal Garden AR
+### Nephron VR
+
 ## Acknowledgements
 
 Research reported in this publication was supported in part by 1) the [Institutional Development Award (IDeA) Network for Biomedical Research Excellence](https://nigms.nih.gov/Research/DRCB/IDeA/Pages/INBRE.aspx) from the National Institute of General Medical Sciences of the National Institutes of Health under grant number P20GM103430 through the RI-INBRE [Molecular Informatics Core Facility](https://web.uri.edu/riinbre/mic/), 2) the Information Technology Services Innovation Solutions Student Technology Assistant Program at the University of Rhode Island, and 3) the Department of Biomedical and Pharmaceutical Sciences in the University of Rhode Island College of Pharmacy.
