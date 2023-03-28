@@ -4,7 +4,7 @@ Last Updated March 23, 2023
 
 ## Introduction
 
-Welcome to the repository for virtual, augmented and mixed reality (VR/AR/MR) applications the RI-INBRE Molecular Informatics Core/URI ITS Student Technology Assistants Program.  The MIC and STA groups began collaborating in 2018 on developing VR apps for STEM education, particularly in the area of pharmaceutical sciences.  Some of these applications were developed as part of the Enhanced Virtual Education, RESearch, and Training (EVEREST) Pilot Awards.  Unless stated otherwise, apps were developed in Unity for HTC Vive-style VR headsets.  Mobile apps were developed exclusively for Android devices.
+Welcome to the repository for virtual, augmented and mixed reality (VR/AR/MR) applications developed by the RI-INBRE Molecular Informatics Core/URI ITS Student Technology Assistants Program.  The MIC and STA groups began collaborating in 2018 on developing VR apps for STEM education, particularly in the area of pharmaceutical sciences.  Some of these applications were developed as part of the Enhanced Virtual Education, RESearch, and Training (EVEREST) Pilot Awards.  Unless stated otherwise, apps were developed in Unity for HTC Vive-style VR headsets.  Mobile apps were developed exclusively for Android devices.
 
 ## Applications
 
@@ -14,7 +14,7 @@ Applications developed by the MIC-STA are listed below.  We try to offer the mos
 
 Sponsor: Dr. Christopher Hemme, University of Rhode Island, College of Pharmacy<br>
 Funding: RI-INBRE<br>
-Description:<br>
+Description: Prototype app developed in Unity to demonstrate the history, biochemistry, and pharmacology of aspirin and salicylic acid.  No executable is available and it may not work in current versions of Unity.<br>
 
 ### Methotrexate VR
 
