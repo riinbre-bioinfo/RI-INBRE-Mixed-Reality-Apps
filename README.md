@@ -1,5 +1,5 @@
 # RI-INBRE Mixed Reality Apps
-VR/AR/MR applications developed by RI-INBRE and URI ITS STA
+VR/AR/MR applications developed by RI-INBRE and URI ILT STA
 Last Updated March 23, 2023
 
 ## Introduction
