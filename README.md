@@ -20,38 +20,38 @@ Description: Prototype app developed in Unity to demonstrate the history, bioche
 
 Sponsor: Dr. Bongsup Cho, University of Rhode Island, College of Pharmacy<br>
 Funding: RI-INBRE<br>
-Description: <br>
+Description: VR app covering the mechanism of action of the anti-cancer drug methotrexate.  Executable "MTX Project.exe".  VR only.<br>
 
 ### Natural Products VR
 
 Sponsor: Dr. Matthew Bertin, University of Rhode Island, College of Pharmacy<br>
 Funding: RI-INBRE<br>
-Description: <br>
+Description: VR app covering natural product chemistry of carmaphycin B, a natural product from marine cyanobacteria.  Executable "Lab - Bertin.exe".  VR and First Person versions available.<br>
 
 ### Nanoparticle and Liposome VR
 
 Sponsor: Dr. Jie Shen, University of Rhode Island, College of Pharmacy/College of Engineering<br>
 Funding: RI-INBRE (EVEREST)<br>
-Description: <br>
+Description: VR apps covering nanoparticle and liposome chemistry and synthesis.  Executables "Nanotech.exe".  VR and First Person versions available.<br>
 
 ### Cell Culture VR
 
 Sponsor: Dr. Jyothi Menon, University of Rhode Island, College of Pharmacy/College of Engineering<br>
 Funding: RI-INBRE (EVEREST)<br>
-Description: <br>
+Description: VR app covering aspects of cell culture technique, including sterile technique, use of personal protective equipment, and culturing.  Executable "VR-CELL-CULTURE-PROJECT.exe".  VR and First Person versions available.<br>
 
 ### Medicinal Garden AR
 
 Sponsor: Elizabeth Leibovitz, University of Rhode Island, College of Pharmacy<br>
 Funding: RI-INBRE<br>
-Description: <br>
+Description: AR app covering physical and pharmacological properties of medicinal plants.  In development, code not yet available.<br>
 
 ### Nephron VR
 
 Sponsor: Dr. Roberta King, University of Rhode Island, College of Pharmacy<br>
 Funding: <br>
-Description: <br>
+Description: VR app covering diuretic mechanisms of kidney function.  Executable "KidneyNephronDiureticMechanisms,exe".  VR and First Persoon versions available.<br>
 
 ## Acknowledgements
 
-Research reported in this publication was supported in part by 1) the [Institutional Development Award (IDeA) Network for Biomedical Research Excellence](https://nigms.nih.gov/Research/DRCB/IDeA/Pages/INBRE.aspx) from the National Institute of General Medical Sciences of the National Institutes of Health under grant number P20GM103430 through the RI-INBRE [Molecular Informatics Core Facility](https://web.uri.edu/riinbre/mic/), 2) the Information Technology Services Innovation Solutions Student Technology Assistant Program at the University of Rhode Island, and 3) the Department of Biomedical and Pharmaceutical Sciences in the University of Rhode Island College of Pharmacy.
+App development was supported in part by 1) the [Institutional Development Award (IDeA) Network for Biomedical Research Excellence](https://nigms.nih.gov/Research/DRCB/IDeA/Pages/INBRE.aspx) from the National Institute of General Medical Sciences of the National Institutes of Health under grant number P20GM103430 through the RI-INBRE [Molecular Informatics Core Facility](https://web.uri.edu/riinbre/mic/), 2) the Information Technology Services Innovation Learning Technologies Program at the University of Rhode Island, and 3) the Department of Biomedical and Pharmaceutical Sciences in the University of Rhode Island College of Pharmacy.
