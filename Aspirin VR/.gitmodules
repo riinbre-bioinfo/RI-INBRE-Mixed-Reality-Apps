@@ -1,0 +1,3 @@
+[submodule "Assets/its-vr-sdk"]
+	path = Assets/its-vr-sdk
+	url = https://gitlab.com/uri-mts/its-vr-sdk.git
