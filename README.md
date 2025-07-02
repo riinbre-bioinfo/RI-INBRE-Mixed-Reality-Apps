@@ -55,3 +55,7 @@ Description: VR app covering diuretic mechanisms of kidney function.  Executable
 ## Acknowledgements
 
 App development was supported in part by 1) the [Institutional Development Award (IDeA) Network for Biomedical Research Excellence](https://nigms.nih.gov/Research/DRCB/IDeA/Pages/INBRE.aspx) from the National Institute of General Medical Sciences of the National Institutes of Health under grant number P20GM103430 through the RI-INBRE [Molecular Informatics Core Facility](https://web.uri.edu/riinbre/mic/), 2) the Information Technology Services Innovative Learning Technologies Program at the University of Rhode Island, and 3) the Department of Biomedical and Pharmaceutical Sciences in the University of Rhode Island College of Pharmacy.
+
+If you use these products or publish results based on the products, please cite our manuscript:
+
+Hemme CL, Carley R, Norton A, Ghumman M, Nguyen H, Ivone R, Menon JU, Shen J, Bertin M, King R, Leibovitz E, Bergstrom R, Cho B. Developing virtual and augmented reality applications for science, technology, engineering and math education. [Biotechniques. 2023 Jul;75(1):343-352. doi: 10.2144/btn-2023-0029. Epub 2023 Jun 9.](https://www.tandfonline.com/doi/full/10.2144/btn-2023-0029?scroll=top&needAccess=true) PMID: [37291856](https://pubmed.ncbi.nlm.nih.gov/37291856/); PMCID: [PMC10505987](https://pmc.ncbi.nlm.nih.gov/articles/PMC10505987/).
